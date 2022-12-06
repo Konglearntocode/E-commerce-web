@@ -3,9 +3,28 @@
   height: 48px;
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 
 .header-logo {
-  margin: 0 auto;
+  /* margin: 0 auto; */
   display: block;
+}
+
+.sign-in-icon {
+  width: 24px;
+  height: 24px;
+  margin-right: 10px;
+}
+
+.sign-in {
+  background-color: transparent;
+  border: none;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  font-family: inherit;
 }

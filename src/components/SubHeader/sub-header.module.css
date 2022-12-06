@@ -1,0 +1,20 @@
+.box-left {
+  flex: 1;
+}
+
+.address-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 16px;
+  gap: 10px;
+  
+  width: 152.2px;
+  height: 56px;
+  
+  background: #FFAE5D;
+  border-radius: 20px;
+  
+
+}
