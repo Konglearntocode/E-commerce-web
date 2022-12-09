@@ -3,7 +3,7 @@ import Footer from "./components/Footer";
 import Container from "./components/Container";
 import Divider from "./components/Divider";
 import SubHeader from "./components/SubHeader";
-
+import Menu from "./components/Menu";
 function App() {
   return (
     <div className="App">
@@ -11,6 +11,7 @@ function App() {
         <Header />
         <Divider color="#808080" marginSize={20} />
         <SubHeader />
+        <Menu />
         <Footer />
       </Container>
     </div>
