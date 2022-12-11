@@ -25,10 +25,7 @@
 }
 
 .search-icon{
-  width: 16px;
-  height: 16px;
   flex: none;
-  order: 1;
   flex-grow: 0;
   padding-right: 20px;
 }
